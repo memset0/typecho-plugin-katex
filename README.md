@@ -5,3 +5,4 @@
 1. 更新 KaTeX 的版本
 2. 渲染不再依赖 jQuery
 
+**NOTE：导入时请务必将文件夹名改为 `MarkdownKatex` 再导入！**
